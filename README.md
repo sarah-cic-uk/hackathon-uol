@@ -29,7 +29,7 @@ Top 3 teams will be decided
 Top 3 teams will be invited to present their demos in person to the judging panel. There will be a networking event afterwards and the end of which the grand prize winner will be revealed
 
 ## The Prize  
-The grand prize will be a tailored IBM Insight Day for each squam member of the winning team. Insight days consist of an office visit with the oppurtunity to shadow someone in the relevant field, mock interviews, networking oppurtunities, Q&As etc. All great things you can add to your experinces and CV.
+The grand prize will be a tailored IBM Insight Day for each squad member of the winning team. Insight days consist of an office visit with the oppurtunity to shadow someone in the relevant field, mock interviews, networking oppurtunities, Q&As etc. All great things you can add to your experinces and CV.
 
 ## The Project  
 **Improve University Life**  
@@ -140,11 +140,11 @@ ould we build a way for them to locate and reunite with each other? A way to rec
 
 Our Associate cohort teams tackled this challenge by creating:
 
-- RefuSential: an app to request services such as food and housing and claim donations from companies and the general public. The app incororated a chatbot to help provide services and help to refugees quicker and aimed to show a map to focus crisis aid and relief. 
+- RefuSential: an app to request services such as food and housing and claim donations from companies and the general public. The app incorporated a chatbot to help provide services and help to refugees quicker and aimed to show a map to focus crisis aid and relief. 
 
 - Manna Care: an online marketplace for people to donate to refugees
 
-- Voice of a Refugee: a powerful social media platform where refugees can share their personal stories and hardships and connect to donors who can provide aid and support. The app forms a relationship between the donar and recipient so they can stay in contact, make continued donations and see how thier aid is improving the lives of those they donate to.
+- Voice of a Refugee: a powerful social media platform where refugees can share their personal stories and hardships and connect to donors who can provide aid and support. The app forms a relationship between the donor and recipient so they can stay in contact, make continued donations and see how thier aid is improving the lives of those they donate to.
 
 - RefugeeFund: an app to help refugees make payments in a foreign country. People can donate to the all and refugees can claim donations to help them with public transport or shopping for essentials. Donations would be converted into barcodes/QR codes so refugees can easily pay for things without needing to handle money or set up bank accounts. The UI was entirely icons to prevent language barriers.
 
