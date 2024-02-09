@@ -1,6 +1,6 @@
 # University of Leciester Hackathon
 
-Welcome to the Hacakthon!  This is a chance to build your own app in an agile team.  You will have 2 days to work on your ideas and bring it to life using the skills you've aquired throughout your degree (and from googling!).
+Welcome to the Hacakthon!  This is a chance to build your own app in an agile team.  You will have 2 days to work on your ideas and bring it to life using the skills you've acquired throughout your degree (and from googling!).
 
 ## The Hackathon - February 2024
 Throughout the hackathon you will have IBM Hackathon Coaches to help you with every stage of your project from idea creation though development, testing and preparing your demo for submission. Your coaches are listed on the slides alongside their area of expertise so go ahead and approach whichever coach will be of most use and utilise thier skills.
