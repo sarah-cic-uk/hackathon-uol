@@ -1,9 +1,9 @@
-# University of Leciester Hackathon
+# University of Leicester Hackathon
 
-Welcome to the Hacakthon!  This is a chance to build your own app in an agile team.  You will have 2 days to work on your ideas and bring it to life using the skills you've acquired throughout your degree (and from googling!).
+Welcome to the Hackthon!  This is a chance to build your own app in an agile team.  You will have 2 days to work on your ideas and bring it to life using the skills you've acquired throughout your degree (and from googling!).
 
 ## The Hackathon - February 2024
-Throughout the hackathon you will have IBM Hackathon Coaches to help you with every stage of your project from idea creation though development, testing and preparing your demo for submission. Your coaches are listed on the slides alongside their area of expertise so go ahead and approach whichever coach will be of most use and utilise thier skills.
+Throughout the hackathon you will have IBM Hackathon Coaches to help you with every stage of your project from idea creation though development, testing and preparing your demo for submission. Your coaches are listed on the slides alongside their area of expertise so go ahead and approach whichever coach will be of most use and utilise their skills.
 
 ### Timetable
 
@@ -26,23 +26,23 @@ Top 3 teams will be decided
 
 **February 21st - March**
 
-Top 3 teams will be invited to present their demos in person to the judging panel. There will be a networking event afterwards and the end of which the grand prize winner will be revealed
+Top 3 teams will be invited to present their demos in person to the judging panel. There will be a networking event afterwards and the end of which the grand prize winner will be revealed.
 
 ## The Prize  
-The grand prize will be a tailored IBM Insight Day for each squad member of the winning team. Insight days consist of an office visit with the oppurtunity to shadow someone in the relevant field, mock interviews, networking oppurtunities, Q&As etc. All great things you can add to your experinces and CV.
+The grand prize will be a tailored IBM Insight Day for each squad member of the winning team. Insight days consist of an office visit with the opportunity to shadow someone in the relevant field, mock interviews, networking opportunities, Q&As etc. All great things you can add to your experiences and CV.
 
 ## The Project  
 **Improve University Life**  
 
-Uni life is great... but what could make it even better? Think innovation! What do we need? What doesnt yet exist? Or what does exist but can be greatly improved?
+Uni life is great... but what could make it even better? Think innovation! What do we need? What doesn't yet exist? Or what does exist but can be greatly improved?
  
 - Perhaps a healthy/simple cooking site to help students eat better with their student budgets?
 - Maybe an app to keep track of society finances – fees, social budgets, ticket sales etc?
 - or an app to help review Uni events and have a 1 stop shop for all events across the uni/societies with easy booking, information access etc?
 
 ## About the app
-* In your teams, plan you app and ideas using Mural, Jamboard, post-its or paper.
-* You can build the app using whatever skills you have - theres no limitations!
+* In your teams, plan your app and ideas using Mural, Jamboard, post-its or paper.
+* You can build the app using whatever skills you have - there's no limitations!
 * It's always best to host the app somewhere and provide the judges with a URL. The best options are AWS or Firebase but use any you are comfortable with. 
 * If you are creating an IoT device, you could use [Watson IoT platform](https://www.ibm.com/cloud/watson-iot-platform).
 
@@ -86,7 +86,7 @@ You will have 15 minutes to showcase your fantastic work to the judges. Here are
 
 **Design Thinking**
 
-You may hear the term Design Thinking in your projects at IBM. Design Thinking is, "an iterative process in which we seek to understand the user, challenge assumptions, and redefine problems in an attempt to identify alternative strategies and solutions that might not be instantly apparent with our initial level of understanding". Try and use it whilst designing your apps.
+You may have heard the term Design Thinking. Design Thinking is, "an iterative process in which we seek to understand the user, challenge assumptions, and redefine problems in an attempt to identify alternative strategies and solutions that might not be instantly apparent with our initial level of understanding". Try and use it whilst designing your apps.
 - [Get started with design thinking](https://www.ibm.com/design/thinking/page/courses/Practitioner)
 - [Design thinking guide](https://w3-connections.ibm.com/files/app/file/4cf7a573-1577-4e78-ba5e-1bd09cb0c2c6)
 - Design Thinking [book](https://learning.oreilly.com/library/view/design-thinking/9781118971802/)
@@ -144,7 +144,7 @@ Our Associate cohort teams tackled this challenge by creating:
 
 - Manna Care: an online marketplace for people to donate to refugees
 
-- Voice of a Refugee: a powerful social media platform where refugees can share their personal stories and hardships and connect to donors who can provide aid and support. The app forms a relationship between the donor and recipient so they can stay in contact, make continued donations and see how thier aid is improving the lives of those they donate to.
+- Voice of a Refugee: a powerful social media platform where refugees can share their personal stories and hardships and connect to donors who can provide aid and support. The app forms a relationship between the donor and recipient so they can stay in contact, make continued donations and see how their aid is improving the lives of those they donate to.
 
 - RefugeeFund: an app to help refugees make payments in a foreign country. People can donate to the all and refugees can claim donations to help them with public transport or shopping for essentials. Donations would be converted into barcodes/QR codes so refugees can easily pay for things without needing to handle money or set up bank accounts. The UI was entirely icons to prevent language barriers.
 
@@ -176,7 +176,7 @@ The Leicester Office has limited parking which is currently first come first ser
 
 There are several car parks within walking distance to the office which are pay and display at various prices and which have varying reviews on whether or not you can safely leave your car there. 
 
-We challenged the teams to devise a way to help thier colleagues park in Leicester!
+We challenged the teams to devise a way to help their colleagues park in Leicester!
 
 The winning app is now a giveback project on its way to being used as the official office parking app.
 
